@@ -29,4 +29,7 @@
    - notifications & feedbacks
    - prevent duplications
    - load palancing
+
+## implementation
+   - <a href="https://github.com/Khaled802/logger">logger using RabbitMQ & express</a>
    
